@@ -1,6 +1,7 @@
 # AngularOauth2Oidc
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This is a small and very basic exempel of a Single Sign On by using OAuth2, OIDC and Angular.
+For more detail instructions please follow this youtube clip `https://www.youtube.com/watch?v=AcuzemsJfxA`
 
 ## Development server
 
