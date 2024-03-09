@@ -1,7 +1,6 @@
 # AngularOauth2Oidc
 
 This is a small and very basic exempel of a Single Sign On by using OAuth2, OIDC and Angular.
-For more detail instructions please follow this youtube clip `https://www.youtube.com/watch?v=AcuzemsJfxA`
 
 ## Development server
 
